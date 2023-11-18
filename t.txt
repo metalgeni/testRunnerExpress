@@ -1,0 +1,13 @@
+
+
+
+express
+sqlite3
+express-session
+
+
+npm install express sqlite3 body-parser express-session
+npm install ejs
+
+
+localhost:3000
